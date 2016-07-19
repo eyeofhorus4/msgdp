@@ -5,6 +5,14 @@ Modflow96 Scenario Generation and Data Processing
 Python Package for the Texas Advanced Computing Center
 -----------------------
 
+To build the project from source:
+
+    > python setup.py sdist bdist_wheel
+
+
+
+
+
 
 Placeholder Content
 

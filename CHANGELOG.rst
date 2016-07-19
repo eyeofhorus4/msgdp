@@ -1,11 +1,16 @@
 Changelog
 =========
 
-Versions are year-based with a strict backwards compatibility policy.
-The third digit is only for regressions.
+Versions are based on `Semantic Versioning 2.0.0 <semver.org>`_.
+
+Given a version number MAJOR.MINOR.PATCH, increment the:
+
+    - MAJOR version when you make incompatible API changes,
+    - MINOR version when you add functionality in a backwards-compatible manner, and
+    - PATCH version when you make backwards-compatible bug fixes.
 
 
-1.0.1 (2016-07-19)
+0.1.1 (2016-07-19)
 -------------------
 
 Changes:
@@ -22,7 +27,7 @@ Changes:
 ----
 
 
-1.0.0 (2016-07-19)
+0.1.0 (2016-07-19)
 -------------------
 
 Changes:
