@@ -6,7 +6,9 @@ The ``msgdp`` package is a custom Python package for the Texas Advanced Computin
 
 It was developed to facilitate running the MODFLOW 96 simulation on TACC HPC resources.
 
-MODFLOW 96 is a Hydrogeological simulation developed and maintained by the `USGS <http://water.usgs.gov/software/MODFLOW-96/>`_.
+MODFLOW 96 is the MODFLOW is a three-dimensional finite-difference ground-water flow model hydrogeological simulation developed and maintained by the `USGS <http://water.usgs.gov/software/MODFLOW-96/>`_.
+
+MODFLOW 96 is also the simulation used to validate all state approved groundwater availability models (GAMs) utilized by the Texas Water Development Board and its various partner organizations to draft legislation and define regulations for common pool resource management at a state-wide level.
 
 The package contains multiple features including:
 
