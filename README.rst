@@ -18,6 +18,10 @@ The package contains multiple features including:
     - Utilities to facilitate populating a database with output
     - Utilities for scaffolding an Adama adapter for the simulation data
 
+To install the package with pip (PENDING):
+
+    ``pip install msgdp``
+
 To build the project from source, clone the repo, cd into the project dir and run:
 
     ``python setup.py sdist bdist_wheel``
