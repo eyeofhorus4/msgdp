@@ -2,7 +2,7 @@
 Modflow96 Scenario Generation and Data Processing
 =======================
 
-The ``msgdp`` package is a custom Python package for the Texas Advanced Computing Center.
+The ``msgdp`` package is a custom Python package for the Texas Advanced Computing Center `\(TACC\) <https://www.tacc.utexas.edu/>`_.
 
 It was developed to facilitate running the MODFLOW 96 simulation on TACC HPC resources.
 
