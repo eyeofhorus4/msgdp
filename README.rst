@@ -16,7 +16,7 @@ The package contains multiple features including:
     - Generation of input files for parametric launcher and SLURM scripts
     - Post-processing of output data for analysis and export from the HPC systems
     - Utilities to facilitate populating a database with output
-    - Utilities for scaffolding an Adama adapter for the simulation data
+    - Utilities for scaffolding an `Adama <https://github.com/Arabidopsis-Information-Portal/adama>`_ adapter for the simulation data
 
 To install the package with pip (PENDING):
 
