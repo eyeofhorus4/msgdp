@@ -1,9 +1,6 @@
 =======================
 Modflow96 Scenario Generation and Data Processing
 =======================
------------------------
-
------------------------
 
 The ``msgdp`` package is a custom Python package for the Texas Advanced Computing Center.
 
@@ -21,14 +18,8 @@ The package contains multiple features including:
     - Utilities to facilitate populating a database with output
     - Utilities for scaffolding an Adama adapter for the simulation data
 
-----
-
 To build the project from source, clone the repo, cd into the project dir and run:
 
     ``python setup.py sdist bdist_wheel``
 
-
 Additional Usage Examples (TBD)
-
-
-----
