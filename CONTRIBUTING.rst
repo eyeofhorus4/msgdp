@@ -1,7 +1,7 @@
 How To Contribute
 =================
 
-Every open source project lives from the generous help by contributors that sacrifice their time and ``attrs`` is no different.
+Every open source project lives from the generous help by contributors that sacrifice their time and ``msgdp`` is no different.
 
 Here are a few guidelines to get you started:
 
@@ -29,12 +29,12 @@ Please report any harm to `John Gentle`_ in any way you find appropriate.
 Thank you for considering a contribution to ``msgdp``!
 
 
-.. _`Hynek Schlawack`: https://hynek.me/about/
+.. _`John Gentle`: <https://github.com/jgentle>
 .. _`PEP 8`: https://www.python.org/dev/peps/pep-0008/
 .. _`PEP 257`: https://www.python.org/dev/peps/pep-0257/
 .. _`good test docstrings`: https://jml.io/pages/test-docstrings.html
 .. _`Code of Conduct`: https://github.com/hynek/attrs/blob/master/CODE_OF_CONDUCT.rst
-.. _changelog: https://github.com/hynek/attrs/blob/master/CHANGELOG.rst
+.. _changelog: https://github.com/jgentle/msgdp/blob/master/CHANGELOG.rst
 .. _`backward compatibility`: https://attrs.readthedocs.io/en/latest/backward-compatibility.html
 .. _`tox`: https://testrun.org/tox/
 .. _`Travis CI`: https://travis-ci.org/

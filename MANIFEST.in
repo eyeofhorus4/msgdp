@@ -1,12 +1,13 @@
 include *.rst *.txt LICENSE tox.ini
-.. include .travis.yml docs/Makefile .coveragerc conftest.py
+#include .travis.yml docs/Makefile .coveragerc conftest.py
 
-.. # If using Python 2.6 or less, then have to include package data, even though
-.. # it's already declared in setup.py
-.. # include sample/*.dat
+# If using Python 2.6 or less, then have to include package data, even though
+# it's already declared in setup.py
+
+#include sample/*.dat
 
 recursive-include data *
-.. recursive-include tests *.py
-.. recursive-include docs *.rst
-.. recursive-include docs *.py
-.. prune docs/_build
+#recursive-include tests *.py
+#recursive-include docs *.rst
+#recursive-include docs *.py
+#prune docs/_build

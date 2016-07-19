@@ -5,7 +5,7 @@ Versions are year-based with a strict backwards compatibility policy.
 The third digit is only for regressions.
 
 
-15.1.0 (2015-08-20)
+1.0.1 (2016-07-19)
 -------------------
 
 Changes:
@@ -22,7 +22,7 @@ Changes:
 ----
 
 
-15.0.0 (2015-04-15)
+1.0.0 (2016-07-19)
 -------------------
 
 Changes:
