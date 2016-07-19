@@ -10,12 +10,13 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
     - PATCH version when you make backwards-compatible bug fixes.
 
 
-0.1.1 (2016-07-19)
+1.0.1 (2016-07-19)
 -------------------
 
 Changes:
 ^^^^^^^^
 
+Placeholder refs
 - Add ``attr.validators.optional`` that wraps other validators allowing attributes to be ``None``.
   `#16 <https://github.com/hynek/attrs/issues/16>`_
 - Fix multi-level inheritance.
@@ -27,7 +28,7 @@ Changes:
 ----
 
 
-0.1.0 (2016-07-19)
+1.0.0 (2016-07-19)
 -------------------
 
 Changes:

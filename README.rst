@@ -2,41 +2,28 @@
 Modflow96 Scenario Generation and Data Processing
 =======================
 -----------------------
-Python Package for the Texas Advanced Computing Center
+
 -----------------------
 
-To build the project from source:
+The ``msgdp`` package is a custom Python package for the Texas Advanced Computing Center.
+It was developed to facilitate running the MODFLOW 96 simulation on TACC HPC resources.
+MODFLOW 96 is a Hydrogeological simulation developed and maintained by the `USGS <http://water.usgs.gov/software/MODFLOW-96/>`_.
 
-    > python setup.py sdist bdist_wheel
-
-
-
-
-
-
-Placeholder Content
-
-
-A sample project that exists as an aid to the `Python Packaging User Guide
-<https://packaging.python.org>`_'s `Tutorial on Packaging and Distributing
-Projects <https://packaging.python.org/en/latest/distributing.html>`_.
-
-This projects does not aim to cover best practices for Python project
-development as a whole. For example, it does not provide guidance or tool
-recommendations for version control, documentation, or testing.
+The package contains multiple features including:
+    - Specific build patches for building MODFLOW96 in the TACC HPC environments
+    - Preparation of input files and data required by the simulation
+    - Generation of model cases to run en masse on the HPC systems
+    - Generation of input files for parametric launcher and SLURM
+    - Post-processing of output data for analysis and export from the HPC systems
 
 ----
 
-This is the README file for the project.
+To build the project from source, clone the repo, cd into the project dir and run:
 
-The file should use UTF-8 encoding and be written using ReStructured Text. It
-will be used to generate the project webpage on PyPI and will be displayed as
-the project homepage on common code-hosting services, and should be written for
-that purpose.
+    ``python setup.py sdist bdist_wheel``
 
-Typical contents for this file would include an overview of the project, basic
-usage examples, etc. Generally, including the project changelog in here is not
-a good idea, although a simple "What's New" section for the most recent version
-may be appropriate.
+
+Additional Usage Examples (TBD)
+
 
 ----
