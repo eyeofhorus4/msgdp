@@ -13,11 +13,13 @@ MODFLOW 96 is a Hydrogeological simulation developed and maintained by the `USGS
 
 The package contains multiple features including:
 
-    - Specific build patches for building MODFLOW96 in the TACC HPC environments
-    - Preparation of input files and data required by the simulation
+    - Specific makefile patches for building MODFLOW96 on the various TACC HPC environments
+    - Preparation of input files and data sets required by the simulation
     - Generation of model cases to run en masse on the HPC systems
-    - Generation of input files for parametric launcher and SLURM
+    - Generation of input files for parametric launcher and SLURM scripts
     - Post-processing of output data for analysis and export from the HPC systems
+    - Utilities to facilitate populating a database with output
+    - Utilities for scaffolding an Adama adapter for the simulation data
 
 ----
 
