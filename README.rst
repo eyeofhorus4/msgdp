@@ -2,12 +2,12 @@
 Modflow96 Scenario Generation and Data Processing
 =======================
 -----------------------
-Python Module for the Texas Advanced Computing Center
+Python Package for the Texas Advanced Computing Center
 -----------------------
 
 
-Placeholder COntent
-=======================
+Placeholder Content
+
 
 A sample project that exists as an aid to the `Python Packaging User Guide
 <https://packaging.python.org>`_'s `Tutorial on Packaging and Distributing

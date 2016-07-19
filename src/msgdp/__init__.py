@@ -1,0 +1,9 @@
+name = "msgdp"
+description = "Modflow96 Scenario Generation and Data Processing Package for TACC"
+license = "BSD 3-Clause"
+uri = "https://github.com/jgentle/msgdp",
+version = "0.0.1"
+author = "John Gentle"
+author_email = "jgentle@tacc.utexas.edu"
+maintainer = "John Gentle"
+maintainer_email = "jgentle@tacc.utexas.edu"
