@@ -1,4 +1,6 @@
-Modflow96 Scenario Generation and Data Processing Python Module for TACC
+Modflow96 Scenario Generation and Data Processing
+Python Module
+Texas Advanced Computing Center
 =======================
 
 A sample project that exists as an aid to the `Python Packaging User Guide
@@ -22,3 +24,5 @@ Typical contents for this file would include an overview of the project, basic
 usage examples, etc. Generally, including the project changelog in here is not
 a good idea, although a simple "What's New" section for the most recent version
 may be appropriate.
+
+----
