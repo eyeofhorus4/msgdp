@@ -12,13 +12,13 @@ MODFLOW 96 is also the legally mandated simulation used to validate all state ap
 
 The package contains multiple features including:
 
-    - Specific makefile patches for building MODFLOW96 on the various TACC HPC environments
-    - Preparation of input files and data sets required by the simulation
-    - Generation of model cases to run en masse on the HPC systems
-    - Generation of input files for parametric launcher and SLURM scripts
-    - Post-processing of output data for analysis and export from the HPC systems
-    - Utilities to facilitate populating a database with output
-    - Utilities for scaffolding an `Adama <https://github.com/Arabidopsis-Information-Portal/adama>`_ adapter for the simulation data
+    - Specific makefile patches for building MODFLOW96 on the various TACC HPC environments (DONE)
+    - Preparation of input files and data sets required by the simulation (DONE)
+    - Generation of model cases to run en masse on the HPC systems (DONE)
+    - Generation of input files for parametric launcher and SLURM scripts (DONE)
+    - Post-processing of output data for analysis and export from the HPC systems (PENDING)
+    - Utilities to facilitate populating a database with output (PENDING)
+    - Utilities for scaffolding an `Adama <https://github.com/Arabidopsis-Information-Portal/adama>`_ adapter for the simulation data (PENDING)
 
 To install the package with pip (PENDING):
 
